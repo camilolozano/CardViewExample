@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CardView</string>
+    <string name="location">San Francisco</string>
+    <string name="data">Mon, 12:30 PM, Mostly sunny</string>
+</resources>
